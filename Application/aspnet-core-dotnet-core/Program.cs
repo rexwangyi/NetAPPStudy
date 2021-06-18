@@ -14,6 +14,7 @@ namespace aspnet_core_dotnet_core
     {
         public static void Main(string[] args)
         {
+            // this is a comment
             CreateWebHostBuilder(args).Build().Run();
         }
 
